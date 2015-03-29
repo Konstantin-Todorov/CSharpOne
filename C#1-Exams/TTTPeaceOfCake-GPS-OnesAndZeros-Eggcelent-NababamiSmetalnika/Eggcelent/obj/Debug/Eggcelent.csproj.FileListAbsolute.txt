@@ -1,0 +1,5 @@
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\15.12.13Eve\Eggcelent\bin\Debug\Eggcelent.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\15.12.13Eve\Eggcelent\bin\Debug\Eggcelent.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\15.12.13Eve\Eggcelent\bin\Debug\Eggcelent.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\15.12.13Eve\Eggcelent\obj\Debug\Eggcelent.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\15.12.13Eve\Eggcelent\obj\Debug\Eggcelent.pdb

@@ -1,0 +1,5 @@
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.pdb

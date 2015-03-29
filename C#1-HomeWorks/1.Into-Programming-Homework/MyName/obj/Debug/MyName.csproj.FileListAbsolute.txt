@@ -1,0 +1,5 @@
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Into-Programming-Homework\MyName\bin\Debug\MyName.exe.config
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Into-Programming-Homework\MyName\bin\Debug\MyName.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Into-Programming-Homework\MyName\bin\Debug\MyName.pdb
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Into-Programming-Homework\MyName\obj\Debug\MyName.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Into-Programming-Homework\MyName\obj\Debug\MyName.pdb

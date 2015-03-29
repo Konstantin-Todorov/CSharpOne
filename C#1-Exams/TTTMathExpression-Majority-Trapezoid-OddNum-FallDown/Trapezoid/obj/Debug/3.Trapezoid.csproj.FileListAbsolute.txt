@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012Part1\2011-2012Part1\bin\Debug\2011-2012Part1.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012Part1\2011-2012Part1\bin\Debug\2011-2012Part1.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012Part1\2011-2012Part1\bin\Debug\2011-2012Part1.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012Part1\2011-2012Part1\obj\Debug\3.Trapezoid.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012Part1\2011-2012Part1\obj\Debug\2011-2012Part1.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012Part1\2011-2012Part1\obj\Debug\2011-2012Part1.pdb

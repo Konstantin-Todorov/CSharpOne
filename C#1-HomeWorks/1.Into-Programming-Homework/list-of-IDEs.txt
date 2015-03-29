@@ -1,0 +1,31 @@
+1.-------------------------------------
+Visual Studio
+
+Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop computer programs for Microsoft Windows, 
+as well as web sites, web applications and web services. Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, 
+Windows Presentation Foundation, Windows Store and Microsoft Silverlight.
+
+2.-------------------------------------
+NetBeans
+
+NetBeans is an IDE for developing primarily with Java, but also with other languages, 
+in particular PHP, C/C++, and HTML5. It is also an application platform framework for Java desktop applications and others.
+The NetBeans IDE is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms supporting a compatible JVM.
+
+3.-------------------------------------
+Eclips
+
+In computer programming, Eclipse is an integrated development environment (IDE). It contains a base workspace and an extensible plug-in system for customizing the environment. 
+Written mostly in Java, Eclipse can be used to develop applications. By means of various plug-ins, Eclipse may also be used to develop applications in other 
+programming languages: C, C++, JavaScript, Perl, PHP, Python, Ruby (including Ruby on Rails framework), among others.
+
+4.-------------------------------------
+Mono
+
+MonoDevelop is an open source integrated development environment for Linux, OS X, and Windows. 
+Its primary focus is development of projects that use Mono and .NET frameworks.
+MonoDevelop integrates features similar to those of NetBeans and Microsoft Visual Studio, such as automatic code completion, source control, 
+a graphical user interface (GUI) and Web designer.
+
+5.-------------------------------------
+Code :: Blocks is primarily used for C and C ++. It's not a bad IDE, but not the best one either.

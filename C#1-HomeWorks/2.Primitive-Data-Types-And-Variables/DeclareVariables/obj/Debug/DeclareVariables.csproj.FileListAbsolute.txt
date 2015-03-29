@@ -1,0 +1,14 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\Solution2\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\Solution2\DeclareVariables\bin\Debug\DeclareVariables.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Solution2\DeclareVariables\bin\Debug\DeclareVariables.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\Solution2\DeclareVariables\obj\Debug\DeclareVariables.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\Solution2\DeclareVariables\obj\Debug\DeclareVariables.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Solution2\DeclareVariables\obj\Debug\DeclareVariables.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-And-Variables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-And-Variables\DeclareVariables\obj\Debug\DeclareVariables.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-And-Variables\DeclareVariables\obj\Debug\DeclareVariables.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-And-Variables\DeclareVariables\bin\Debug\DeclareVariables.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-And-Variables\DeclareVariables\bin\Debug\DeclareVariables.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-And-Variables\DeclareVariables\bin\Debug\DeclareVariables.exe.CodeAnalysisLog.xml
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-And-Variables\DeclareVariables\bin\Debug\DeclareVariables.exe.lastcodeanalysissucceeded
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-And-Variables\DeclareVariables\obj\Debug\DeclareVariables.csprojResolveAssemblyReference.cache

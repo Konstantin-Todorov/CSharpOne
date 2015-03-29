@@ -1,0 +1,10 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\Solution2\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\Solution2\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Solution2\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\Solution2\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Solution2\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\Solution2\FloatOrDouble\bin\Debug\FloatOrDouble.exe.CodeAnalysisLog.xml
+c:\users\buldozer\documents\visual studio 2013\Projects\Solution2\FloatOrDouble\bin\Debug\FloatOrDouble.exe.lastcodeanalysissucceeded
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-And-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-And-Variables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-And-Variables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

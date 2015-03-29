@@ -1,0 +1,8 @@
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\2011-2012-Part1(2)\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe.config
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\2011-2012-Part1(2)\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\2011-2012-Part1(2)\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.pdb
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\2011-2012-Part1(2)\BinaryDigitsCount\obj\Debug\4.BinaryDigitsCount.csprojResolveAssemblyReference.cache
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\2011-2012-Part1(2)\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\2011-2012-Part1(2)\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.pdb
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\2011-2012-Part1(2)\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.Properties.Resources.resources
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\2011-2012-Part1(2)\BinaryDigitsCount\obj\Debug\4.BinaryDigitsCount.csproj.GenerateResource.Cache

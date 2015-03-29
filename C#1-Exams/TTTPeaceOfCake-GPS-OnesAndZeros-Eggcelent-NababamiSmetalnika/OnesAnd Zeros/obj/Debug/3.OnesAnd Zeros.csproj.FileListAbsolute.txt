@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\15.12.13Eve\OnesAnd Zeros\bin\Debug\OnesAnd Zeros.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\15.12.13Eve\OnesAnd Zeros\bin\Debug\OnesAnd Zeros.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\15.12.13Eve\OnesAnd Zeros\bin\Debug\OnesAnd Zeros.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\15.12.13Eve\OnesAnd Zeros\obj\Debug\3.OnesAnd Zeros.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\15.12.13Eve\OnesAnd Zeros\obj\Debug\OnesAnd Zeros.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\15.12.13Eve\OnesAnd Zeros\obj\Debug\OnesAnd Zeros.pdb

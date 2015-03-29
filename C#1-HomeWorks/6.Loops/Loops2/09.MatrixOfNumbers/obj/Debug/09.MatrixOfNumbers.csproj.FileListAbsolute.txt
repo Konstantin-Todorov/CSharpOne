@@ -1,0 +1,5 @@
+D:\VSProjects\C#\Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe.config
+D:\VSProjects\C#\Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe
+D:\VSProjects\C#\Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.pdb
+D:\VSProjects\C#\Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
+D:\VSProjects\C#\Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb

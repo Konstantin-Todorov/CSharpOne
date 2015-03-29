@@ -1,0 +1,3 @@
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\TTT1Garden-NextDay-TribonacciNumbers-Batka-BatGoiko-Secrets\TribonacciTriangle\bin\Debug\TribonacciTriangle.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\TTT1Garden-NextDay-TribonacciNumbers-Batka-BatGoiko-Secrets\TribonacciTriangle\obj\Debug\TribonacciTriangle.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\TTT1Garden-NextDay-TribonacciNumbers-Batka-BatGoiko-Secrets\TribonacciTriangle\obj\Debug\TribonacciTriangle.pdb

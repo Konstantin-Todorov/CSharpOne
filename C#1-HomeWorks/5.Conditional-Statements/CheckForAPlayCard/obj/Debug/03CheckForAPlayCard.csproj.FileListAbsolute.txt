@@ -1,0 +1,5 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.pdb

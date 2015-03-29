@@ -1,0 +1,12 @@
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Preparation\TribonacciTriangle\bin\Debug\TribonacciTriangle.exe.config
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Preparation\TribonacciTriangle\obj\Debug\TribonacciTriangle.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Preparation\TribonacciTriangle\obj\Debug\TribonacciTriangle.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\GardenNextDay\TribonacciTriangle\bin\Debug\TribonacciTriangle.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\GardenNextDay\TribonacciTriangle\obj\Debug\TribonacciTriangle.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\GardenNextDay\TribonacciTriangle\obj\Debug\TribonacciTriangle.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\TTT1GardenNextDayTribonacciNumbers\TribonacciTriangle\bin\Debug\TribonacciTriangle.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\TTT1GardenNextDayTribonacciNumbers\TribonacciTriangle\obj\Debug\TribonacciTriangle.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\TTT1GardenNextDayTribonacciNumbers\TribonacciTriangle\obj\Debug\TribonacciTriangle.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\TTT1Garden-NextDay-TribonacciNumbers\TribonacciTriangle\bin\Debug\TribonacciTriangle.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\TTT1Garden-NextDay-TribonacciNumbers\TribonacciTriangle\obj\Debug\TribonacciTriangle.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\TTT1Garden-NextDay-TribonacciNumbers\TribonacciTriangle\obj\Debug\TribonacciTriangle.pdb

@@ -1,0 +1,5 @@
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Console- Input-Output\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe.config
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Console- Input-Output\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Console- Input-Output\SumOf5Numbers\bin\Debug\SumOf5Numbers.pdb
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Console- Input-Output\SumOf5Numbers\obj\Debug\SumOf5Numbers.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Console- Input-Output\SumOf5Numbers\obj\Debug\SumOf5Numbers.pdb

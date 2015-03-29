@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012-Part1(2)\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012-Part1(2)\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012-Part1(2)\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012-Part1(2)\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012-Part1(2)\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012-Part1(2)\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.pdb

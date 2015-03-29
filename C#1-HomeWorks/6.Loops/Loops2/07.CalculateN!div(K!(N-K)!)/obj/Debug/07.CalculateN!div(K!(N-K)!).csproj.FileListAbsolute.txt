@@ -1,0 +1,6 @@
+D:\VSProjects\C#\Loops\07.CalculateN!div(K!(N-K)!)\bin\Debug\07.CalculateN!div(K!(N-K)!).exe.config
+D:\VSProjects\C#\Loops\07.CalculateN!div(K!(N-K)!)\bin\Debug\07.CalculateN!div(K!(N-K)!).exe
+D:\VSProjects\C#\Loops\07.CalculateN!div(K!(N-K)!)\bin\Debug\07.CalculateN!div(K!(N-K)!).pdb
+D:\VSProjects\C#\Loops\07.CalculateN!div(K!(N-K)!)\obj\Debug\07.CalculateN!div(K!(N-K)!).exe
+D:\VSProjects\C#\Loops\07.CalculateN!div(K!(N-K)!)\obj\Debug\07.CalculateN!div(K!(N-K)!).pdb
+D:\VSProjects\C#\Loops\07.CalculateN!div(K!(N-K)!)\obj\Debug\07.CalculateN!div(K!(N-K)!).csprojResolveAssemblyReference.cache

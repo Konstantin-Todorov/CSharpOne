@@ -1,0 +1,3 @@
+.NET Framework is a software framework developed by Microsoft that runs primarily on Microsoft Windows. On the other hand C# is just one of the programming languages, 
+supported by the .NET framework.It was developed by Microsoft within its .NET initiative and is one of the programming languages designed for the Common Language Infrastructure.
+Microsoft's implementation of C# is heavily integrated with the .NET Framework so it is understandable that the two concepts would be confused.

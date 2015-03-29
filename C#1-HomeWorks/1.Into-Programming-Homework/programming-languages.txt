@@ -1,0 +1,34 @@
+1.----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+C++ is well-suited for large projects because it has an object-oriented structure. People can collaborate on one program by breaking it up into parts and having a small group or even one individual work on each part. 
+The object-oriented structure also allows code to be reused a lot, which can cut down development time. C++ is also a fairly efficient language - although many C programmers will disagree. 
+
+C++ is mainly used in the game development sector.
+
+2.----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+C is a popular language, especially in game programming, because it doesn't have the extra packaging of the object-oriented C++. Programmers use C because it makes programs slightly faster and smaller than programs written in C++.
+ You might wonder, however, whether it's worth giving up the reusability of C++ to get the small increase in performance with C, especially when C++ can, where necessary, be written in a C programming style. 
+
+C# provides a managed memory model that adds a higher level of abstractionthat adds convenience and improves development times.The syntax of C# is much simpler and prone than C/C++ and is easier for learning.
+
+3.----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Pascal is primarily a teaching language. Few industrial programs are written in Pascal. Pascal tends to use keywords instead of C-style braces and symbols, so it is a bit easier for beginners to understand than languages like C++.
+Still, not everyone thinks Pascal is just for the schools. Borland, the huge compiler software company, has been pushing Delphi as an industrial strength programming language. Delphi is an object-oriented version of Pascal, and currently, only Borland compilers use it. 
+
+4.----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fortran is a number-crunching program, and it is still used by scientists because the language allows variables of any size up to the memory limit of the machine. Fortran is especially convenient for engineers,
+ who have to mathematically model and compute values to high precision.Fortran, however, isn't nearly as flexible as C or C++. Programming in Fortran is rigid, with strict rules on whitespace and formatting, which sometimes makes reading Fortran programs difficult. 
+
+5.----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Java is a multi-platform language that is especially useful in networking. Of course, the most famous usage of Java is on the web, with Java applets, but Java is also used to build cross-platform programs that stand alone.
+Since it resembles C++ in syntax and structure, learning Java is usually quite easy for most C++ programmers. Java offers the advantages provided by object-oriented programming, such as reusability;
+ on the other hand, it can be difficult to write highly efficient code in Java, and Swing, its primary user interface, is notoriously slow. 
+
+Java and C# are similar, both are class-based and object-oriented, in both all objects are references, both use garbage collection, have built-in Unicode support, and only allow single inheritance.
+The main difference is that Java can be run on any operating system, while C# typically requires Windows and the .NET framework.There are also mostly minor differences in keywords and syntax and in the use of some classes, exception handling etc.
+
+6.----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PHP is a common language for webpage design that is sometimes used as a scripting language in *nix. PHP is designed for rapid website development, and as a result contains features that make it easy to link to databases, generate HTTP headers, and so forth.
+As a scripting language, it contains a relatively simple set of basic components that allow the programmer to quickly get up to speed, though it does have more sophisticated object-oriented features. 
+
+The major differences between PHP and C# is that PHP is a dynamic and interpreted while C# is static and needs to be compiled.
+

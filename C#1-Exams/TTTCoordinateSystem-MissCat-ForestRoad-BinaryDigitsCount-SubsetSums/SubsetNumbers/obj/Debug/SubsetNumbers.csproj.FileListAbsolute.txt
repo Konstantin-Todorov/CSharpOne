@@ -1,0 +1,2 @@
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\2011-2012-Part1(2)\SubsetNumbers\bin\Debug\SubsetNumbers.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\TTTCoordinateSystem-MissCat-ForestRoad-BinaryDigitsCount-SubsetSums\SubsetNumbers\bin\Debug\SubsetNumbers.exe.config

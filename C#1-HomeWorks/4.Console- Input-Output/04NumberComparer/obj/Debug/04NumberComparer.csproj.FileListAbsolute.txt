@@ -1,0 +1,5 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\Console- Input-Output\Number-Comparer\bin\Debug\Number-Comparer.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\Console- Input-Output\Number-Comparer\bin\Debug\Number-Comparer.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Console- Input-Output\Number-Comparer\bin\Debug\Number-Comparer.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\Console- Input-Output\Number-Comparer\obj\Debug\Number-Comparer.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Console- Input-Output\Number-Comparer\obj\Debug\Number-Comparer.pdb

@@ -1,0 +1,5 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.11Mor\FirTree\bin\Debug\FirTree.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.11Mor\FirTree\bin\Debug\FirTree.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.11Mor\FirTree\bin\Debug\FirTree.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.11Mor\FirTree\obj\Debug\FirTree.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.11Mor\FirTree\obj\Debug\FirTree.pdb

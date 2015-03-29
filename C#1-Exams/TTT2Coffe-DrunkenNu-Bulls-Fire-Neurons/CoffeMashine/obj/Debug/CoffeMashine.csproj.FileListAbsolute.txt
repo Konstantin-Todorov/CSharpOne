@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\Preparation1\CoffeMashine\bin\Debug\CoffeMashine.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\Preparation1\CoffeMashine\bin\Debug\CoffeMashine.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Preparation1\CoffeMashine\bin\Debug\CoffeMashine.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\Preparation1\CoffeMashine\obj\Debug\CoffeMashine.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\Preparation1\CoffeMashine\obj\Debug\CoffeMashine.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Preparation1\CoffeMashine\obj\Debug\CoffeMashine.pdb

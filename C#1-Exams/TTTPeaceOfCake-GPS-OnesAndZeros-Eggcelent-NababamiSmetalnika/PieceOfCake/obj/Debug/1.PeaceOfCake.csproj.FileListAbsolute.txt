@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\15.12.13Eve\PieceOfCake\bin\Debug\PieceOfCake.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\15.12.13Eve\PieceOfCake\bin\Debug\PieceOfCake.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\15.12.13Eve\PieceOfCake\bin\Debug\PieceOfCake.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\15.12.13Eve\PieceOfCake\obj\Debug\1.PeaceOfCake.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\15.12.13Eve\PieceOfCake\obj\Debug\PieceOfCake.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\15.12.13Eve\PieceOfCake\obj\Debug\PieceOfCake.pdb

@@ -1,0 +1,5 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\7.12.11Mor\AstrologicalNumbers\bin\Debug\AstrologicalNumbers.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\7.12.11Mor\AstrologicalNumbers\bin\Debug\AstrologicalNumbers.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\7.12.11Mor\AstrologicalNumbers\bin\Debug\AstrologicalNumbers.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\7.12.11Mor\AstrologicalNumbers\obj\Debug\AstrologicalNumbers.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\7.12.11Mor\AstrologicalNumbers\obj\Debug\AstrologicalNumbers.pdb

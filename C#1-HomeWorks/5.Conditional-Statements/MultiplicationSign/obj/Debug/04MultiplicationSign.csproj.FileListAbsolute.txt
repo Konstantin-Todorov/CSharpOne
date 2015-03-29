@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\MultiplicationSign\bin\Debug\MultiplicationSign.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\MultiplicationSign\bin\Debug\MultiplicationSign.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\MultiplicationSign\obj\Debug\04MultiplicationSign.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\MultiplicationSign\obj\Debug\MultiplicationSign.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\MultiplicationSign\obj\Debug\MultiplicationSign.pdb

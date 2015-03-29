@@ -1,0 +1,2 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.11Mor\ShipDamage\bin\Debug\ShipDamage.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\TTTShipDamage-Tribonacci-FirTree-WeAllLoveBits-Pillar\ShipDamage\bin\Debug\ShipDamage.exe.config

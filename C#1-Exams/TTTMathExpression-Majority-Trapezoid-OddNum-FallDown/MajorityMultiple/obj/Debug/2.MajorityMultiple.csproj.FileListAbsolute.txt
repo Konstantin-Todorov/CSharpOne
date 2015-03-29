@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012Part1\MajorityMultiple\bin\Debug\MajorityMultiple.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012Part1\MajorityMultiple\bin\Debug\MajorityMultiple.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012Part1\MajorityMultiple\bin\Debug\MajorityMultiple.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012Part1\MajorityMultiple\obj\Debug\2.MajorityMultiple.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012Part1\MajorityMultiple\obj\Debug\MajorityMultiple.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012Part1\MajorityMultiple\obj\Debug\MajorityMultiple.pdb

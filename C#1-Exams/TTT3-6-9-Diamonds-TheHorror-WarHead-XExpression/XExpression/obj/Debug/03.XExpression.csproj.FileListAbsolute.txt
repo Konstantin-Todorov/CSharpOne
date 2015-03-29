@@ -1,0 +1,5 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.13Mor\XExpression\bin\Debug\XExpression.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.13Mor\XExpression\bin\Debug\XExpression.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.13Mor\XExpression\bin\Debug\XExpression.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.13Mor\XExpression\obj\Debug\XExpression.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.13Mor\XExpression\obj\Debug\XExpression.pdb

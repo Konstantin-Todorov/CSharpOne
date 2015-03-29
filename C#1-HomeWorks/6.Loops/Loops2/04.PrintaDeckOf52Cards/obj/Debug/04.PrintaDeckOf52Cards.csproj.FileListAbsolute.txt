@@ -1,0 +1,6 @@
+D:\VSProjects\C#\Loops\04.PrintaDeckOf52Cards\bin\Debug\04.PrintaDeckOf52Cards.exe.config
+D:\VSProjects\C#\Loops\04.PrintaDeckOf52Cards\bin\Debug\04.PrintaDeckOf52Cards.exe
+D:\VSProjects\C#\Loops\04.PrintaDeckOf52Cards\bin\Debug\04.PrintaDeckOf52Cards.pdb
+D:\VSProjects\C#\Loops\04.PrintaDeckOf52Cards\obj\Debug\04.PrintaDeckOf52Cards.csprojResolveAssemblyReference.cache
+D:\VSProjects\C#\Loops\04.PrintaDeckOf52Cards\obj\Debug\04.PrintaDeckOf52Cards.exe
+D:\VSProjects\C#\Loops\04.PrintaDeckOf52Cards\obj\Debug\04.PrintaDeckOf52Cards.pdb

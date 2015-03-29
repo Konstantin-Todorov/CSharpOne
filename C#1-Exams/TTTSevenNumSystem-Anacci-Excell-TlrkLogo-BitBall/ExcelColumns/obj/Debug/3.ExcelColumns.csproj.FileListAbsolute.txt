@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\28Dec2012\ExcelColumns\bin\Debug\ExcelColumns.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\28Dec2012\ExcelColumns\bin\Debug\ExcelColumns.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\28Dec2012\ExcelColumns\bin\Debug\ExcelColumns.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\28Dec2012\ExcelColumns\obj\Debug\3.ExcelColumns.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\28Dec2012\ExcelColumns\obj\Debug\ExcelColumns.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\28Dec2012\ExcelColumns\obj\Debug\ExcelColumns.pdb

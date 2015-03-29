@@ -1,0 +1,5 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\Loops\trii\bin\Debug\trii.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\Loops\trii\bin\Debug\trii.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Loops\trii\bin\Debug\trii.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\Loops\trii\obj\Debug\trii.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Loops\trii\obj\Debug\trii.pdb

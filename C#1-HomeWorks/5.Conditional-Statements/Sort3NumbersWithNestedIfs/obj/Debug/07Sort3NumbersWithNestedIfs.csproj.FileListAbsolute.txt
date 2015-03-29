@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\Sort3NumbersWithNestedIfs\bin\Debug\Sort3NumbersWithNestedIfs.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\Sort3NumbersWithNestedIfs\bin\Debug\Sort3NumbersWithNestedIfs.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\Sort3NumbersWithNestedIfs\bin\Debug\Sort3NumbersWithNestedIfs.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\Sort3NumbersWithNestedIfs\obj\Debug\07Sort3NumbersWithNestedIfs.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\Sort3NumbersWithNestedIfs\obj\Debug\Sort3NumbersWithNestedIfs.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\Sort3NumbersWithNestedIfs\obj\Debug\Sort3NumbersWithNestedIfs.pdb

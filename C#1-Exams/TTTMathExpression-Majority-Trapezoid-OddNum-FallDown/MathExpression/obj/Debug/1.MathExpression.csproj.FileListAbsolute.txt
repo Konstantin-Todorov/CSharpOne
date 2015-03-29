@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012Part1\MathExpression\bin\Debug\MathExpression.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012Part1\MathExpression\bin\Debug\MathExpression.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012Part1\MathExpression\bin\Debug\MathExpression.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012Part1\MathExpression\obj\Debug\1.MathExpression.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012Part1\MathExpression\obj\Debug\MathExpression.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\2011-2012Part1\MathExpression\obj\Debug\MathExpression.pdb

@@ -1,0 +1,5 @@
+D:\VSProjects\C#\Loops\06.CalculateNK\bin\Debug\06.CalculateNK.exe.config
+D:\VSProjects\C#\Loops\06.CalculateNK\bin\Debug\06.CalculateNK.exe
+D:\VSProjects\C#\Loops\06.CalculateNK\bin\Debug\06.CalculateNK.pdb
+D:\VSProjects\C#\Loops\06.CalculateNK\obj\Debug\06.CalculateNK.exe
+D:\VSProjects\C#\Loops\06.CalculateNK\obj\Debug\06.CalculateNK.pdb

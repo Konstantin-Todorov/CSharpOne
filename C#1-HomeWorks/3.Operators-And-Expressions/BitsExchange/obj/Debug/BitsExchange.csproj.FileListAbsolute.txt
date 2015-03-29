@@ -1,0 +1,8 @@
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\BitsExchange\bin\Debug\BitsExchange.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\BitsExchange\bin\Debug\BitsExchange.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\BitsExchange\bin\Debug\BitsExchange.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\BitsExchange\bin\Debug\BitsExchange.exe.CodeAnalysisLog.xml
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\BitsExchange\bin\Debug\BitsExchange.exe.lastcodeanalysissucceeded
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\BitsExchange\obj\Debug\BitsExchange.csprojResolveAssemblyReference.cache
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\BitsExchange\obj\Debug\BitsExchange.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\BitsExchange\obj\Debug\BitsExchange.pdb

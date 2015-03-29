@@ -1,0 +1,9 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.13Mor\DiamondTrolls\bin\Debug\DiamondTrolls.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.13Mor\DiamondTrolls\bin\Debug\DiamondTrolls.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.13Mor\DiamondTrolls\bin\Debug\DiamondTrolls.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.13Mor\DiamondTrolls\obj\Debug\04.DiamondTrolls.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.13Mor\DiamondTrolls\obj\Debug\DiamondTrolls.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.13Mor\DiamondTrolls\obj\Debug\DiamondTrolls.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\TTT3-6-9-Diamonds-TheHorror-WarHead-XExpression\DiamondTrolls\bin\Debug\DiamondTrolls.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\TTT3-6-9-Diamonds-TheHorror-WarHead-XExpression\DiamondTrolls\obj\Debug\DiamondTrolls.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\TTT3-6-9-Diamonds-TheHorror-WarHead-XExpression\DiamondTrolls\obj\Debug\DiamondTrolls.pdb

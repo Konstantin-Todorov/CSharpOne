@@ -1,0 +1,5 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\BeerTime\bin\Debug\BeerTime.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\BeerTime\bin\Debug\BeerTime.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\BeerTime\bin\Debug\BeerTime.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\BeerTime\obj\Debug\BeerTime.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\BeerTime\obj\Debug\BeerTime.pdb

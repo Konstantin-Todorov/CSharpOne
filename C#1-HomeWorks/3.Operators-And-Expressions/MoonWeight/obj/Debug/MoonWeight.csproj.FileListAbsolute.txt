@@ -1,0 +1,5 @@
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\MoonWeight\bin\Debug\MoonWeight.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\MoonWeight\bin\Debug\MoonWeight.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\MoonWeight\bin\Debug\MoonWeight.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\MoonWeight\obj\Debug\MoonWeight.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\MoonWeight\obj\Debug\MoonWeight.pdb

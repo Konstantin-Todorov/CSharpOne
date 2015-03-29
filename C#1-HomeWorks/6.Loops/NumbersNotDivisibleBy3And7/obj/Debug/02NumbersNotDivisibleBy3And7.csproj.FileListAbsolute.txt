@@ -1,0 +1,5 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\Loops\NumbersNotDivisibleBy3And7\bin\Debug\NumbersNotDivisibleBy3And7.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\Loops\NumbersNotDivisibleBy3And7\bin\Debug\NumbersNotDivisibleBy3And7.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Loops\NumbersNotDivisibleBy3And7\bin\Debug\NumbersNotDivisibleBy3And7.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\Loops\NumbersNotDivisibleBy3And7\obj\Debug\NumbersNotDivisibleBy3And7.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Loops\NumbersNotDivisibleBy3And7\obj\Debug\NumbersNotDivisibleBy3And7.pdb

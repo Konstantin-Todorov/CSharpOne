@@ -1,0 +1,5 @@
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-And-Variables\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-And-Variables\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-And-Variables\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-And-Variables\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-And-Variables\EmployeeData\obj\Debug\EmployeeData.pdb

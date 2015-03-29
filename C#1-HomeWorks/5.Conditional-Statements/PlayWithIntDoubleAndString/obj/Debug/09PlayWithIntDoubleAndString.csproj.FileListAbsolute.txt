@@ -1,0 +1,5 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Conditional-Statements\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.pdb

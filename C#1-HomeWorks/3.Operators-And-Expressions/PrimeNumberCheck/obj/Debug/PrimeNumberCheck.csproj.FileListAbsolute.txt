@@ -1,0 +1,5 @@
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb

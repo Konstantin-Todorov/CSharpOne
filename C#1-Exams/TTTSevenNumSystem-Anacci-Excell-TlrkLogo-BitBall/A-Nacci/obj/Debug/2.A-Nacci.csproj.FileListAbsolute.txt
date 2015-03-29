@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\28Dec2012\A-Nacci\bin\Debug\A-Nacci.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\28Dec2012\A-Nacci\bin\Debug\A-Nacci.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\28Dec2012\A-Nacci\bin\Debug\A-Nacci.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\28Dec2012\A-Nacci\obj\Debug\2.A-Nacci.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\28Dec2012\A-Nacci\obj\Debug\A-Nacci.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\28Dec2012\A-Nacci\obj\Debug\A-Nacci.pdb

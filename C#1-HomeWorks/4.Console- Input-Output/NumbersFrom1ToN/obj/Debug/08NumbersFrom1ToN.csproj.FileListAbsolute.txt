@@ -1,0 +1,5 @@
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Console- Input-Output\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe.config
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Console- Input-Output\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Console- Input-Output\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.pdb
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Console- Input-Output\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Console- Input-Output\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.pdb

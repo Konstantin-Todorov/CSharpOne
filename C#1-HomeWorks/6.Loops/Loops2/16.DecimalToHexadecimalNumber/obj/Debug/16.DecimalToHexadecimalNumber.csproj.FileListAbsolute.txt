@@ -1,0 +1,6 @@
+D:\VSProjects\C#\Loops\16.DecimalToHexadecimalNumber\bin\Debug\16.DecimalToHexadecimalNumber.exe.config
+D:\VSProjects\C#\Loops\16.DecimalToHexadecimalNumber\bin\Debug\16.DecimalToHexadecimalNumber.exe
+D:\VSProjects\C#\Loops\16.DecimalToHexadecimalNumber\bin\Debug\16.DecimalToHexadecimalNumber.pdb
+D:\VSProjects\C#\Loops\16.DecimalToHexadecimalNumber\obj\Debug\16.DecimalToHexadecimalNumber.csprojResolveAssemblyReference.cache
+D:\VSProjects\C#\Loops\16.DecimalToHexadecimalNumber\obj\Debug\16.DecimalToHexadecimalNumber.exe
+D:\VSProjects\C#\Loops\16.DecimalToHexadecimalNumber\obj\Debug\16.DecimalToHexadecimalNumber.pdb

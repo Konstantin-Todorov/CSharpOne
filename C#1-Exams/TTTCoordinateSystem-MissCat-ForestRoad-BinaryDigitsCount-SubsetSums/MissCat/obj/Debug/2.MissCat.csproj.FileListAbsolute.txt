@@ -1,0 +1,6 @@
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\2011-2012-Part1(2)\MissCat\bin\Debug\MissCat.exe.config
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\2011-2012-Part1(2)\MissCat\bin\Debug\MissCat.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\2011-2012-Part1(2)\MissCat\bin\Debug\MissCat.pdb
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\2011-2012-Part1(2)\MissCat\obj\Debug\2.MissCat.csprojResolveAssemblyReference.cache
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\2011-2012-Part1(2)\MissCat\obj\Debug\MissCat.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\2011-2012-Part1(2)\MissCat\obj\Debug\MissCat.pdb

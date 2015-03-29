@@ -1,0 +1,5 @@
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Console- Input-Output\NumbersIntervalDividableGivenNumber\bin\Debug\NumbersIntervalDividableGivenNumber.exe.config
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Console- Input-Output\NumbersIntervalDividableGivenNumber\bin\Debug\NumbersIntervalDividableGivenNumber.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Console- Input-Output\NumbersIntervalDividableGivenNumber\bin\Debug\NumbersIntervalDividableGivenNumber.pdb
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Console- Input-Output\NumbersIntervalDividableGivenNumber\obj\Debug\NumbersIntervalDividableGivenNumber.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Console- Input-Output\NumbersIntervalDividableGivenNumber\obj\Debug\NumbersIntervalDividableGivenNumber.pdb

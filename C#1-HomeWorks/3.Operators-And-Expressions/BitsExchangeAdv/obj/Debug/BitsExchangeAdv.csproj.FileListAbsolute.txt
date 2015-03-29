@@ -1,0 +1,5 @@
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\BitsExchangeAdv\bin\Debug\BitsExchangeAdv.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\BitsExchangeAdv\bin\Debug\BitsExchangeAdv.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\BitsExchangeAdv\bin\Debug\BitsExchangeAdv.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\BitsExchangeAdv\obj\Debug\BitsExchangeAdv.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\BitsExchangeAdv\obj\Debug\BitsExchangeAdv.pdb

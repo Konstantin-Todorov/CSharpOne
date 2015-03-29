@@ -1,0 +1,6 @@
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\Rectangular\bin\Debug\Rectangular.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\Rectangular\bin\Debug\Rectangular.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\Rectangular\bin\Debug\Rectangular.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\Rectangular\obj\Debug\Rectangular.csprojResolveAssemblyReference.cache
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\Rectangular\obj\Debug\Rectangular.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\Rectangular\obj\Debug\Rectangular.pdb

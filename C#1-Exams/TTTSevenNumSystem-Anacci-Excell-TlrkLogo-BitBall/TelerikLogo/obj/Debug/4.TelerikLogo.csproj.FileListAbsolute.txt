@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\28Dec2012\TelerikLogo\bin\Debug\TelerikLogo.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\28Dec2012\TelerikLogo\bin\Debug\TelerikLogo.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\28Dec2012\TelerikLogo\bin\Debug\TelerikLogo.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\28Dec2012\TelerikLogo\obj\Debug\4.TelerikLogo.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\28Dec2012\TelerikLogo\obj\Debug\TelerikLogo.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\28Dec2012\TelerikLogo\obj\Debug\TelerikLogo.pdb

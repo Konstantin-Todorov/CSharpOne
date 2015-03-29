@@ -1,0 +1,8 @@
+D:\VSProjects\C#\Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe.config
+D:\VSProjects\C#\Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
+D:\VSProjects\C#\Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
+D:\VSProjects\C#\Loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
+D:\VSProjects\C#\Loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#1-HomeWorks\6.Loops\Loops2\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#1-HomeWorks\6.Loops\Loops2\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#1-HomeWorks\6.Loops\Loops2\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb

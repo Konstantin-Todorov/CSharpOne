@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\Console- Input-Output\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\Console- Input-Output\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Console- Input-Output\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\Console- Input-Output\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Console- Input-Output\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\Console- Input-Output\PrintCompanyInformation\obj\Debug\02PrintCompanyInformation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\CheckBitsPosition\bin\Debug\CheckBitsPosition.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\CheckBitsPosition\bin\Debug\CheckBitsPosition.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\CheckBitsPosition\bin\Debug\CheckBitsPosition.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\CheckBitsPosition\obj\Debug\CheckBitsPosition.csprojResolveAssemblyReference.cache
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\CheckBitsPosition\obj\Debug\CheckBitsPosition.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\CheckBitsPosition\obj\Debug\CheckBitsPosition.pdb

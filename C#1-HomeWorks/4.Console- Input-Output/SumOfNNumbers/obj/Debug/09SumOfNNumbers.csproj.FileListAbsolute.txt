@@ -1,0 +1,5 @@
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Console- Input-Output\SumOfNNumbers\bin\Debug\SumOfNNumbers.exe.config
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Console- Input-Output\SumOfNNumbers\bin\Debug\SumOfNNumbers.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Console- Input-Output\SumOfNNumbers\bin\Debug\SumOfNNumbers.pdb
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Console- Input-Output\SumOfNNumbers\obj\Debug\SumOfNNumbers.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Console- Input-Output\SumOfNNumbers\obj\Debug\SumOfNNumbers.pdb

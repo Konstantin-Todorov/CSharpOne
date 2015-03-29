@@ -1,0 +1,5 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.13Mor\TheHorror\bin\Debug\TheHorror.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.13Mor\TheHorror\bin\Debug\TheHorror.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.13Mor\TheHorror\bin\Debug\TheHorror.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.13Mor\TheHorror\obj\Debug\TheHorror.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\6.12.13Mor\TheHorror\obj\Debug\TheHorror.pdb

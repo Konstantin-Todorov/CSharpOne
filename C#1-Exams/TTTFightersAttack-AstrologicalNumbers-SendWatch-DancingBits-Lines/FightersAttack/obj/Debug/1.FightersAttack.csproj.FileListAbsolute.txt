@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\7.12.11Mor\FightersAttack\bin\Debug\FightersAttack.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\7.12.11Mor\FightersAttack\bin\Debug\FightersAttack.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\7.12.11Mor\FightersAttack\bin\Debug\FightersAttack.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\7.12.11Mor\FightersAttack\obj\Debug\1.FightersAttack.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\7.12.11Mor\FightersAttack\obj\Debug\FightersAttack.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\7.12.11Mor\FightersAttack\obj\Debug\FightersAttack.pdb

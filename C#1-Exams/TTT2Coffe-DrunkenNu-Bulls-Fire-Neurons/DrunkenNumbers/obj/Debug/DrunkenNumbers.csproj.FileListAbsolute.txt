@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\Preparation1\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\Preparation1\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Preparation1\DrunkenNumbers\bin\Debug\DrunkenNumbers.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\Preparation1\DrunkenNumbers\obj\Debug\DrunkenNumbers.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\Preparation1\DrunkenNumbers\obj\Debug\DrunkenNumbers.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Preparation1\DrunkenNumbers\obj\Debug\DrunkenNumbers.pdb
